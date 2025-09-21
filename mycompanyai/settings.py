@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-DEEPSEEK_API_KEY = 'sk-7baf4173089245c9badc191e071ffde6'
+
 # Application definition
 
 INSTALLED_APPS = [
