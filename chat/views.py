@@ -187,7 +187,7 @@ def generate_ai_response(user_input, conversation_context=None):
     api_url = "https://api.deepseek.com/v1/chat/completions"
 
     # Your DeepSeek API key
-    api_key = getattr(settings, 'num1', 'sk-7baf4173089245c9badc191e071ffde6')
+    api_key = ''
 
     # Headers for the API request
     headers = {
